@@ -6,8 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="669e53e5">
-        <description>Created after removal of "Custom-icon-setter-usage" from FoliCon</description>
-        <accepts>custom-icon-setter-usage.html</accepts>
-    </rule>
 </rules>

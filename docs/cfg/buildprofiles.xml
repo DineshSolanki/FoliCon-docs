@@ -1,0 +1,16 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+       <header-logo>folicon-squre.png</header-logo>
+    </variables>
+    <footer>
+        <copyright>FoliCon 2018-2024</copyright>
+        <social type="blog" href="https://aprogrammers.wordpress.com/"></social>
+        <social type="twitter" href="twitter.com/Dinesh_so_lucky"></social>
+        <social type="linkedin" href="https://www.linkedin.com/in/dineshsolanki/"></social>
+        <link href="https://www.reddit.com/r/folicon/">r/FoliCon</link>
+        <link href="https://github.com/DineshSolanki/FoliCon">Source-Code</link>
+        <link href="https://dineshsolanki.github.io/FoliCon/">Site</link>
+        <link href="https://dineshsolanki.github.io/FoliCon-docs">FoliCon-Docs</link>
+    </footer>
+</buildprofiles>
