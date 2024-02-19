@@ -16,5 +16,5 @@
   <note> Double click to select the image</note>
     * Remembers the selected title when choosing from ambiguous results to auto select the title on next search in case of a failure.
   <tip> This media info can be cleared by the option 'Delete media info'</tip>
-
+  <tip>FoliCon supports Plex standard naming format such as 'TITLE (YEAR) {tmdb/imdb/tvdb-id}</tip>
 <note>Professional mode can search for any type of media</note>
