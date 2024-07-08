@@ -95,6 +95,21 @@ its default for poster mode starting with v3.7, it also contains the title of th
 * Liaher — Named after its designer [Liaher](https://www.deviantart.com/liaher), best for minimalistic look.
 * Faelpessoal Horizontal—Best for landscape posters, usually for Games artwork.
 
+## Subfolder processing
+<tldr>
+    <ui-path>Menu Bar | Settings | Subfolder processing</ui-path>
+    <p>Process media in subfolders</p>
+    <p>Default: disabled</p>
+</tldr>
+
+With the help of Subfolder processing, one can scan for media within nested directories.
+Suppose your directory structure looks like this: `Movies\The Dark Knight\`, `Movies\Action\John Wick\`,
+FoliCon would first check all media files within the John Wick subdirectory, then it will move up hierarchy and explore Action subdirectory and finally Movies directory.
+
+This can prove to be quite convenient for handling collections or series. Please note that this is currently only available in Poster mode.
+
+To learn more, visit [Subfolder processing](Subfolder-processing.md).
+
 ## Explorer context menu integration
 <tldr>
     <ui-path>Menu Bar | Settings | Explorer integration</ui-path>
