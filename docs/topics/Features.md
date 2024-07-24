@@ -14,6 +14,8 @@ FoliCon has grown a lot since its first release, and it has a lot of features no
 * Plex standard naming format support (poster mode)—`TITLE (YEAR) {tmdb/imdb/tvdb-id}` [See discussion](https://github.com/DineshSolanki/FoliCon/issues/185)
 * Nested Folder search (Poster mode)
   * FoliCon can search for the media in the nested folders.
+* Extract gallery feature
+  * FoliCon has an extract gallery feature that lets you chose from a archive of images in professional mode. see [Extract gallery](Extract-gallery.md)
 * Instantly refreshes the icons
   * FoliCon instantly refreshes the icons when you change the icon of a folder.
 * Option to clear explorer cache

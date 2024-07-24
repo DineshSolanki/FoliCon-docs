@@ -14,3 +14,5 @@ It works very simply, you search for the media, and it shows you the icons, and 
 
 <note> Single click on the image to see the full preview</note>
 <note> Double click to select the image</note>
+
+[See Extract gallery feature](Extract-gallery.md)
