@@ -104,9 +104,9 @@ its default for poster mode starting with v3.7, it also contains the title of th
 
 With the help of Subfolder processing, one can scan for media within nested directories.
 Suppose your directory structure looks like this: `Movies\The Dark Knight\`, `Movies\Action\John Wick\`,
-FoliCon would first check all media files within the John Wick subdirectory, then it will move up hierarchy and explore Action subdirectory and finally Movies directory.
+FoliCon would first check all media files within the Movies directory, then it will move down hierarchy and explore the Action subdirectory and finally John Wick subdirectory.
 
-This can prove to be quite convenient for handling collections or series. Please note that this is currently only available in Poster mode.
+This can prove to be quite convenient for handling collections or series.
 
 To learn more, visit [Subfolder processing](Subfolder-processing.md).
 
@@ -116,8 +116,7 @@ To learn more, visit [Subfolder processing](Subfolder-processing.md).
     <p>Add/Remove FoliCon to/from the explorer context menu</p>
 </tldr>
 
-FoliCon has the option
-to add/remove integration into the explorer context menu
+FoliCon can add/remove integration into the explorer context menu
 to let you change the icons of the folders directly from the explorer.
 
 <img src="ECM-option.png" alt="Explorer context menu setting"/>
