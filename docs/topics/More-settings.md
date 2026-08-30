@@ -33,10 +33,15 @@ Use this option to clear the media info, so that you can choose a different titl
 ## Check for updates
 <tldr>
     <ui-path>Menu Bar | Help | Check for updates</ui-path>
-    <p>Check for updates</p>
+    <p>Check for a newer version of FoliCon</p>
 </tldr>
 
-This option will check for updates and notify you if an update is available.
+This option checks GitHub for a newer release of FoliCon and notifies you if one is available.
+
+If the update check fails — for example due to no internet connection — FoliCon shows an error notification so you know the check did not complete successfully.
+
+<tip>FoliCon's CI/CD pipeline publishes releases automatically. Use this option periodically to stay up to date.</tip>
+
 
 ## Enable Error Reporting
 <tldr>

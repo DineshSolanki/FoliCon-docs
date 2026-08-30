@@ -1,17 +1,29 @@
-# FoliCon 
+# FoliCon
+
+<web-summary>FoliCon is a folder icon changer for movies, TV shows, games, music, and anime. It fetches poster art and ratings automatically and applies them as folder icons.</web-summary>
+
 <img alt="logo" border-effect="rounded" height="180" type="inline" src="folicon.png"/>
 
-FoliCon is a Folder icon changer that works for movies, music, games, shows, anime, and much more.
+FoliCon is a folder icon changer that works for movies, music, games, shows, anime, and much more. It fetches poster art and ratings from online databases and applies them as folder icons automatically.
 
-it also shows ratings on the created icons, and has two modes, POSTER and Professional.
+FoliCon has two icon modes — **[Poster Mode](Poster-Mode.md)** for overlaying artwork with ratings, and **[Professional Mode](Professional-Mode.md)** for ready-made icons crafted by the DeviantArt community.
 
 > [Leave a ⭐ if you like FoliCon](https://github.com/DineshSolanki/FoliCon)
 >
 > ![GitHub Repo stars](https://img.shields.io/github/stars/DineshSolanki/FoliCon)
 
+<note>
+
+**New to FoliCon?** Start with the [Getting Started](Getting-Started.md) guide. FoliCon uses your own API keys for TMDB, IGDB, and DeviantArt — the guide walks you through getting them and completing first-launch setup.
+
+**Requirements:** Windows 10/11 · .NET 10 or higher · WebView2 Runtime (pre-installed on Windows 11). See [Dependencies](Dependencies.md).
+
+</note>
+
 > Download the latest version from [here](https://github.com/DineshSolanki/FoliCon/releases/latest)
 >
 {style="note"}
+
 ## What is the inspiration behind FoliCon?
 
 I was tired of seeing the same folder icon for all my movies and games folders.

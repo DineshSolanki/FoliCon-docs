@@ -79,7 +79,7 @@ select from ambiguous titles for basically keeping FoliCon on autopilot.
 ## Change poster icon overlay
 <tldr>
     <ui-path>Menu Bar | Settings | Change poster icon overlay</ui-path>
-    <p>Change the poster icon overlay</p>
+    <p>Change the poster icon overlay style</p>
 </tldr>
 
 FoliCon has various poster overlay options to let you customize the poster as you want.
@@ -88,12 +88,15 @@ FoliCon has various poster overlay options to let you customize the poster as yo
 
 <p>Overlay names from left to right:</p>
 
-* Legacy—The first overlay of FoliCon
-* Alternate — The Alternate for Legacy
-* Faelpessoal — Named after its designer [faelpessoal](https://www.deviantart.com/faelpessoal), 
-its default for poster mode starting with v3.7, it also contains the title of the media.
-* Liaher — Named after its designer [Liaher](https://www.deviantart.com/liaher), best for minimalistic look.
-* Faelpessoal Horizontal—Best for landscape posters, usually for Games artwork.
+* **Legacy** — The original FoliCon overlay
+* **Alternate** — The alternate for Legacy
+* **Faelpessoal** — Named after its designer [faelpessoal](https://www.deviantart.com/faelpessoal), default for poster mode since v3.7. Includes the media title in the overlay.
+* **Liaher** — Named after its designer [Liaher](https://www.deviantart.com/liaher), best for a minimalistic look.
+* **Faelpessoal Horizontal** — Best for landscape posters, typically for game artwork.
+* **Windows 11 Style** — A sleek Win11-inspired overlay added in v4.4.0, ideal for horizontal posters.
+
+<tip>Looking for more styles? Open <ui-path>Poster Icon Config | Browse Overlay Store…</ui-path> to discover and install community-created overlays. You can also design your own with the built-in <a href="Overlay-Designer.md">Overlay Designer</a>.</tip>
+
 
 ## Subfolder processing
 <tldr>
