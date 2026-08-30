@@ -18,7 +18,7 @@ Keys are encrypted at rest using DPAPI (Data Protection API) — they never leav
 ## Setup API Keys
 
 <tabs>
-    <tab title="TMDB (Movies & Shows)">
+    <tab title="TMDB (Movies &amp; Shows)">
         <p>The Movie Database (TMDB) is used for movies, TV shows, and anime search in Poster Mode.</p>
         <procedure title="How to get a TMDB key" id="tmdb-setup">
             <step>Go to <a href="https://www.themoviedb.org/">themoviedb.org</a> and create a free account.</step>
