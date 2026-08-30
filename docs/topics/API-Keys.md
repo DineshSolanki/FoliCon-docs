@@ -28,6 +28,7 @@ Keys are encrypted at rest using DPAPI (Data Protection API) — they never leav
             <step>Copy the <strong>API Read Access Token (v4 auth)</strong>.</step>
             <step>In FoliCon, paste the key into the TMDB field of the API Keys settings.</step>
         </procedure>
+        <img src="tmdb-api-location.png" border-effect="rounded" alt="TMDB API Read Access Token location"/>
     </tab>
     <tab title="IGDB (Games)">
         <p>The Internet Game Database (IGDB) is used for game search in Poster Mode. It requires a Twitch Developer account.</p>
@@ -39,6 +40,7 @@ Keys are encrypted at rest using DPAPI (Data Protection API) — they never leav
             <step>Copy the <strong>Client ID</strong> and generate/copy the <strong>Client Secret</strong>.</step>
             <step>In FoliCon, paste both the Client ID and Client Secret into the corresponding IGDB fields.</step>
         </procedure>
+        <img src="igdb-twitch-console.png" border-effect="rounded" alt="Twitch Developer Console Client ID and Secret"/>
     </tab>
     <tab title="DeviantArt (Icons)">
         <p>DeviantArt is used for Professional Mode browsing and downloading user-created icons.</p>
@@ -50,12 +52,15 @@ Keys are encrypted at rest using DPAPI (Data Protection API) — they never leav
             <step>Submit the form to get your <strong>Client ID</strong> and <strong>Client Secret</strong>.</step>
             <step>In FoliCon, paste both into the DeviantArt fields.</step>
         </procedure>
+        <img src="deviantart-app-credentials.png" border-effect="rounded" alt="DeviantArt Developer Application Credentials"/>
     </tab>
 </tabs>
 
 ## Managing Keys in FoliCon
 
 <p>You can access the key management panel from <ui-path>Menu Bar | Settings | Setup Wizard</ui-path>. The first-launch wizard also displays this panel to help you get started quickly.</p>
+
+<img src="api-keys-settings.png" border-effect="rounded" alt="API Keys settings in FoliCon"/>
 
 ## Troubleshooting
 

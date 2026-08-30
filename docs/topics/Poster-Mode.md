@@ -31,7 +31,6 @@ You can apply custom icon overlays to your poster icons. Currently, there are si
 - **Liaher** — A minimalistic look, named after designer [Liaher](https://www.deviantart.com/liaher).
 - **Faelpessoal Horizontal** — Best suited for landscape or game artwork.
 - **Windows 11 Style** — A sleek Windows 11-style overlay, best for horizontal posters.
-  <img src="win11-overlay.png" border-effect="rounded" alt="Windows 11 style overlay"/>
 
 ### Overlay Store and Designer
 
@@ -54,4 +53,6 @@ The preview window correctly renders **transparency** for PNG images, allowing y
 Poster mode includes a feature to add media ratings directly to your folder icons, giving you a quick visual indicator of the media's score.
 
 ### Videos and Trailers
+
 Poster mode shows available trailers and videos for the selected media. All media types (Movies, TV shows, and Games) now support multiple videos. Click the video thumbnail to watch it directly in FoliCon's built-in viewer.
+<img src="poster-videos.png" border-effect="rounded" alt="Multiple video trailers in Poster Mode"/>

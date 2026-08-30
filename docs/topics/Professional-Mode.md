@@ -26,7 +26,7 @@ DeviantArt lets creators mark some icon packs as exclusive to their watchers (fo
 
 To access watcher-exclusive content, you need to authenticate with DeviantArt. There are two ways:
 - **OAuth (recommended):** FoliCon guides you through a DeviantArt OAuth login in a browser window. Once authorized, FoliCon can access watcher-exclusive content automatically.
-- **Manual credentials:** Enter your DeviantArt Client ID and Client Secret in <ui-path>Menu Bar | Settings | API Keys</ui-path>.
+- **Manual credentials:** Enter your DeviantArt Client ID and Client Secret in <ui-path>Menu Bar | Settings | Setup Wizard</ui-path>.
 
 <img src="pro-mode-oauth.png" border-effect="rounded" alt="DeviantArt OAuth login"/>
 

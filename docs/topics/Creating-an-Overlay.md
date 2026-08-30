@@ -42,7 +42,10 @@ MyOverlay/
   preview.png
 ```
 
+<img src="overlay-package-structure.png" border-effect="rounded" alt="Example overlay package structure and preview image"/>
+
 **`manifest.json` fields:**
+
 
 | Field | Type | Description |
 |-------|------|-------------|

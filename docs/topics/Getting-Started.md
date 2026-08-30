@@ -48,6 +48,8 @@ TMDB provides metadata and images for movies and TV shows.
     <step>Copy the generated API Key into the FoliCon wizard.</step>
 </procedure>
 
+<img src="tmdb-api-location.png" border-effect="rounded" alt="TMDB API Key generation page"/>
+
 ### Internet Game Database (IGDB)
 
 IGDB (via Twitch) is used for fetching metadata and artwork for games.
@@ -58,6 +60,8 @@ IGDB (via Twitch) is used for fetching metadata and artwork for games.
     <step>Once the app is created, generate a <strong>Client Secret</strong>.</step>
     <step>Copy both the <strong>Client ID</strong> and <strong>Client Secret</strong> into the FoliCon wizard.</step>
 </procedure>
+
+<img src="igdb-twitch-console.png" border-effect="rounded" alt="Twitch Developer Console application credentials"/>
 
 ### DeviantArt
 
@@ -70,12 +74,15 @@ DeviantArt integration is required if you want to use Professional Mode for find
     <step>Copy the <strong>Client ID</strong> and <strong>Client Secret</strong> into the FoliCon wizard.</step>
 </procedure>
 
+<img src="deviantart-app-credentials.png" border-effect="rounded" alt="DeviantArt application registration credentials"/>
+
+
 ## Updating Your Keys Later
 
 If you skipped a step or need to change a key later, you can easily access the settings from the main application.
 
 <tldr>
-    <ui-path>Menu Bar | Settings | API Keys</ui-path>
+    <ui-path>Menu Bar | Settings | Setup Wizard</ui-path>
     <p>Manage and update your service API keys</p>
 </tldr>
 

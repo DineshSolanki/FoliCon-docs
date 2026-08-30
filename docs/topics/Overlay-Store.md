@@ -24,8 +24,6 @@ In the Overlay Store, you can:
 * **Remove** installed overlays.
 * **Track** download and installation progress per overlay.
 
-<img src="overlay-store-search.png" border-effect="rounded" alt="Searching in the Overlay Store"/>
-
 ## Managing Overlays
 
 <procedure title="How to install an overlay" id="install-overlay">
@@ -34,8 +32,6 @@ In the Overlay Store, you can:
     <step>Select an overlay to see its details and preview it.</step>
     <step>Click the <control>Install</control> button.</step>
 </procedure>
-
-<img src="overlay-store-preview.png" border-effect="rounded" alt="Preview panel"/>
 
 <note>
 Installed overlays are stored in your user profile folder. Once installed, they appear in the overlay picker alongside the built-in styles (Legacy, Alternate, Faelpessoal, Liaher, Faelpessoal Horizontal, Win11), and you can apply them immediately.

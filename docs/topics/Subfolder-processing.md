@@ -31,12 +31,10 @@ If you only want some patterns disabled, you can do that as well.
 
 ## Processing Options
 
-<img src="subfolder-options-v520.png" border-effect="rounded" alt="Subfolder processing options v5.2.0"/>
-
 ### Create icon for root/parent folder
 
 <tldr>
-    <ui-path>Settings | Subfolder Processing | Create icon for root/parent folder</ui-path>
+    <ui-path>Settings | Include selected folder </ui-path>
     <p>Include or exclude the root folder from icon creation</p>
 </tldr>
 <p>

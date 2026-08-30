@@ -28,10 +28,7 @@ With the Overlay Designer, you can:
         <img src="overlay-designer-preview.png" border-effect="rounded" alt="Live preview panel"/>
     </step>
     <step>Give your new overlay a descriptive name.</step>
-    <step>
-        <p>Save your design. It immediately appears in the overlay list ready to be used.</p>
-        <img src="overlay-designer-save.png" border-effect="rounded" alt="Save dialog"/>
-    </step>
+    <step>Save your design. It immediately appears in the overlay list ready to be used.</step>
 </procedure>
 
 ## Sharing Your Overlay
@@ -41,3 +38,4 @@ Once you're happy with your design, you can export it as an overlay package and 
 <note>
 <strong>Example:</strong> FoliCon v5.3.0 ships with a Doraemon-themed example overlay built entirely with the designer — check it out in the Overlay Store or in the built-in overlays list!
 </note>
+
