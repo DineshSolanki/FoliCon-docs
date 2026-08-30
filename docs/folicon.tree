@@ -6,8 +6,13 @@
                  name="FoliCon"
                  start-page="Overview.md">
     <toc-element topic="Overview.md">
+        <toc-element topic="Getting-Started.md"/>
+        <toc-element topic="API-Keys.md"/>
         <toc-element topic="Features.md">
-            <toc-element topic="Poster-Mode.md"/>
+            <toc-element topic="Poster-Mode.md">
+                <toc-element topic="Overlay-Store.md"/>
+                <toc-element topic="Overlay-Designer.md"/>
+            </toc-element>
             <toc-element topic="Professional-Mode.md">
                 <toc-element topic="Extract-gallery.md"/>
             </toc-element>
@@ -25,6 +30,7 @@
         <toc-element topic="Code-Contribution.md"/>
         <toc-element topic="Improve-Documentation.md"/>
         <toc-element topic="Translations.md"/>
+        <toc-element topic="Creating-an-Overlay.md"/>
     </toc-element>
     <toc-element topic="Dependencies.md"/>
 </instance-profile>
